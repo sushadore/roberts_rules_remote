@@ -8,6 +8,7 @@ An app to include remote participants in meetings and organizations.
   * Open two browser windows and nagivate to http://localhost:3000/ in both
 
 ## Stretch
+  * allow unauthenticated users to view assemblies and associated posts and votes
   * test, test, test!
   * change room to issue or meeting() or assembly add schedule to assembly
   * timestamp to user posts
