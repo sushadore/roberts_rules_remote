@@ -632,10 +632,10 @@
       "/Users/sushadore/Desktop/roberts_rules_remote/spec/models/message_spec.rb": [
         1,
         null,
-        null,
-        null,
-        null,
-        null,
+        1,
+        2,
+        2,
+        2,
         null
       ],
       "/Users/sushadore/Desktop/roberts_rules_remote/spec/models/user_spec.rb": [
@@ -649,6 +649,6 @@
         null
       ]
     },
-    "timestamp": 1501191748
+    "timestamp": 1501191973
   }
 }
