@@ -5,7 +5,11 @@
         1,
         null,
         1,
-        null,
+        2,
+        2,
+        2,
+        2,
+        2,
         null
       ],
       "/Users/sushadore/Desktop/roberts_rules_remote/spec/rails_helper.rb": [
@@ -649,6 +653,6 @@
         null
       ]
     },
-    "timestamp": 1501191973
+    "timestamp": 1501192167
   }
 }
