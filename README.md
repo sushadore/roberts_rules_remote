@@ -18,6 +18,7 @@ An app to include remote participants in meetings and organizations.
   * permanent record storage of topics and interactions
   * voting acts_as_votable rails_rest_vote make_voteable
   * secure user validation (birthdate, ssn, voter registration status, address, etc)
+  * display number of remote participants
 
 ## Technologies
 Ruby, Rails, PostgresSQL, ActionCable, Javascript  
